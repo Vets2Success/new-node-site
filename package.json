@@ -1,0 +1,29 @@
+{
+  "name": "vets2success",
+  "version": "1.0.0",
+  "description": "new site for vets2success organization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vets2Success/new-node-site.git"
+  },
+  "keywords": [
+    "veterans",
+    "vets",
+    "military",
+    "chef",
+    "culinary",
+    "cooking",
+    "veterans",
+    "education"
+  ],
+  "author": "Bruce B. A. West",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vets2Success/new-node-site/issues"
+  },
+  "homepage": "https://github.com/Vets2Success/new-node-site#readme"
+}
