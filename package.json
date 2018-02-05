@@ -25,5 +25,10 @@
   "bugs": {
     "url": "https://github.com/Vets2Success/new-node-site/issues"
   },
-  "homepage": "https://github.com/Vets2Success/new-node-site#readme"
+  "homepage": "https://github.com/Vets2Success/new-node-site#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-watch": "^5.0.0"
+  }
 }
