@@ -57,5 +57,10 @@ typings/
 # dotenv environment variables file
 .env
 
-#ignore stupid mac file
+#OS or editor files
 .DS_Store
+Thumbs.db
+.cache
+.project
+.tmproj
+*.esproj
